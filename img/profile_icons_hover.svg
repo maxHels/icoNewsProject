@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>profile icons hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="profile-icons-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="profile-icons">
+            <rect id="Rectangle-15" opacity="0.200000003" x="0" y="0" width="24" height="24"></rect>
+            <path d="M12,12 C9.790861,12 8,10.209139 8,8 C8,5.790861 9.790861,4 12,4 C14.209139,4 16,5.790861 16,8 C16,10.209139 14.209139,12 12,12 Z M12,10 C13.1045695,10 14,9.1045695 14,8 C14,6.8954305 13.1045695,6 12,6 C10.8954305,6 10,6.8954305 10,8 C10,9.1045695 10.8954305,10 12,10 Z" id="Combined-Shape" fill="#4C4C4C"></path>
+            <path d="M5,15.677033 L5,19 L19,19 L19,15.677033 L14.8074176,14 L9.1925824,14 L5,15.677033 Z" id="Rectangle-14" stroke="#4C4C4C" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

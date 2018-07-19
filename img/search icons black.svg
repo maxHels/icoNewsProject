@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>search icons black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="search-icons-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-icons">
+            <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M9.5,17 C5.91014913,17 3,14.0898509 3,10.5 C3,6.91014913 5.91014913,4 9.5,4 C13.0898509,4 16,6.91014913 16,10.5 C16,14.0898509 13.0898509,17 9.5,17 Z M9.5,15 C11.9852814,15 14,12.9852814 14,10.5 C14,8.01471863 11.9852814,6 9.5,6 C7.01471863,6 5,8.01471863 5,10.5 C5,12.9852814 7.01471863,15 9.5,15 Z" id="Combined-Shape" fill="#4C4C4C"></path>
+            <path d="M13,14 L19,20" id="Path-4" stroke="#4C4C4C" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

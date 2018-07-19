@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>comments icons hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="comments-icons-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="comments-icons">
+            <polygon id="Shape" points="0 0 16 0 16 16 0 16"></polygon>
+            <path d="M15,12 L15,15 L12,12 L2,12 C1.44771525,12 1,11.5522847 1,11 L1,3 C1,2.44771525 1.44771525,2 2,2 L14,2 C14.5522847,2 15,2.44771525 15,3 L15,12 Z" id="Combined-Shape" fill="#4C4C4C"></path>
+        </g>
+    </g>
+</svg>

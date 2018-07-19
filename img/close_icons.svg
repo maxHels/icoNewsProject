@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>close icons hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="close-icons-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close-icons">
+            <rect id="Rectangle-20" opacity="0.200000003" x="0" y="0" width="24" height="24"></rect>
+            <path d="M7,7 L17,17" id="Path-5" stroke="#4C4C4C" stroke-width="2"></path>
+            <path d="M7,7 L17,17" id="Path-5" stroke="#4C4C4C" stroke-width="2" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) "></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>date icons hover black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="date-icons-hover-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="date-icons" fill="#000000">
+            <path d="M18,5 L20,5 C20.5522847,5 21,5.44771525 21,6 L21,20 C21,20.5522847 20.5522847,21 20,21 L4,21 C3.44771525,21 3,20.5522847 3,20 L3,6 C3,5.44771525 3.44771525,5 4,5 L6,5 L6,3 L8,3 L8,5 L16,5 L16,3 L18,3 L18,5 Z M5,10 L5,19 L19,19 L19,10 L5,10 Z M13,12 L17,12 L17,16 L13,16 L13,12 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

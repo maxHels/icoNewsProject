@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24" rx="12"></rect>
+    </defs>
+    <g id="facebook-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="facebook">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle-14"></g>
+            <path d="M12.9805228,19.9799995 L12.9805228,12.4891227 L15.1963543,12.4891227 L15.4899998,9.90772511 L12.9805228,9.90772511 L12.9842875,8.61571075 C12.9842875,7.94244249 13.0528361,7.58168997 14.089066,7.58168997 L15.4743136,7.58168997 L15.4743136,5 L13.2581684,5 C10.5962216,5 9.65928538,6.25225558 9.65928538,8.35815567 L9.65928538,9.90801745 L8,9.90801745 L8,12.4894151 L9.65928538,12.4894151 L9.65928538,19.9799995 L12.9805228,19.9799995 Z" id="Path-Copy" fill="#4C4C4C" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

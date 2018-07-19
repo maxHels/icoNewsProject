@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>plus icons hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="plus-icons-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="plus-icons">
+            <circle id="Oval-7" cx="7" cy="7" r="7"></circle>
+            <path d="M8,6 L11,6 L11,8 L8,8 L8,11 L6,11 L6,8 L3,8 L3,6 L6,6 L6,3 L8,3 L8,6 Z" id="Combined-Shape" fill="#4C4C4C"></path>
+        </g>
+    </g>
+</svg>
